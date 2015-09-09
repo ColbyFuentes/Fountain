@@ -1,9 +1,7 @@
 Fountain
 ==============
 
-Bukkit plugin to create simple and realistic looking fountains in Minecraft!
-
-![demo](http://i.imgur.com/mbrJBHV.png)
+You want to make your house look fantastic then you have to decorate it with the <a title="Glass Water Fountains" href="http://www.indoorfountainpros.com/glass-floor-fountains/">Glass Water Fountains</a>
 
 ### Commands
 
@@ -16,8 +14,4 @@ Bukkit plugin to create simple and realistic looking fountains in Minecraft!
 * **/fountain tp [Fountain Name]** - Teleports to a fountain
 
 ### Compiling
-You must have Apache Maven installed to compile. (http://maven.apache.org)
-
-to compile use the following command:
-
-```mvn clean install```
+You have to install the fountain in your home and you have to select the best serviced providers in this regard. You can select the best ones according to your need and desire.
